@@ -1,0 +1,3 @@
+- Hello, I’m @Or-If, or Orianna
+- I'm interested in programming, databases, scfi, games, and reading
+- I'm a full time student at Lane Community College getting an Associates degree in Computer Science
